@@ -12,6 +12,6 @@ echo($d);
 </ul>
 
 <ul>
-	<p><i>Independent work Numbar One</i></p>
+	<p><i>Independent work Number One</i></p>
 	<li>Link to 4 page: http://php-takhaev/lab1-5.php</li>
 </ul>
