@@ -6,7 +6,7 @@ echo($d);
 ?>
 <ul>
 	<p><i>Part 1</i></p>
-	<li>Link to 1 page: http://php-takhaev/lab-1-1.php</li>
+	<li>Link to 1 page: takhaev1.y98709yq.beget.tech</li>
 	<li>Link to 2 page: http://php-takhaev/lab-1-2.php</li>
 	<li>Link to 3 page: http://php-takhaev/lab-1-3.php</li>
 </ul>
