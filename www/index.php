@@ -45,7 +45,7 @@ echo($d);
 
 <ul>
 	<p><i><b>Independent work Number Two</b></i></p>
-	<li><a href="http://php-takhaev/lab-2-10.php">Link to Task #1-2
+	<li><a href="lab-2-10.php">Link to Task #1-2
 	</a>
 
 	<li><a href="http://php-takhaev/lab-2-11.php">Link to Task #1-3
