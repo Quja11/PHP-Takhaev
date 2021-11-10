@@ -6,8 +6,12 @@
 <body bgcolor="green">
 <table border="1">
 	<?php
+
+	
 for ($i=1; $i<=10; $i++){
 	echo ("<tr>");
+
+
 for ($k=1; $k<=10; $k++){
 	echo ("<td align=center>");
 	$p=$i*$k;
