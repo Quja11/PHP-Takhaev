@@ -5,6 +5,8 @@
 $d=date("d.m.Y H:i");
 echo($d);
 ?>
+<!--Laboratory work 1-->
+<p><b><i>Laboratory work 1</i></b></p>
 <ul>
 	<p><i><b>Part 1 (php introduction)</b></i></p>
 	<li><a href="index.php">Link to Main Page (Exercise 1-1 and 1-5)</a>
@@ -40,7 +42,8 @@ echo($d);
 
 	<li><a href="lab-2-8.php">Link to Exercise 1-13</a>
 
-	<li><a href="lab-2-9.php">Link to Exercise 1-14</a>	
+	<li><a href="lab-2-9.php">Link to Exercise 1-14</a>
+
 </ul>
 
 <ul>
@@ -51,6 +54,41 @@ echo($d);
 	<li><a href="lab-2-11.php">Link to Task #1-3
 	</a>
 </ul>
+
+
+
+
+
+<!--Laboratory work 2-->
+<p><b><i>Laboratory work 2</i></b></p>
+<ul>
+	<p><i><b>Part 1 (working with arrays)</b></i></p>
+
+	<li><a href="lab-2-1.php">Link to Exercise 2-1</a>
+	<li><a href="lab-2-2.php">Link to Exercise 2-2</a>
+	<li><a href="lab-2-3.php">Link to Exercise 2-3</a>
+</ul>
+
+<ul>
+	<p><i><b>Independent work</b></i></p>
+
+	<li><a href="lab-2-4.php">Link to Task 2.4</a>
+</ul>
+
+<ul>
+	<p><i><b>Part 2. User functions</b></i></p>
+
+	<li><a href="lab-2-5.php">Link to Task 2.5</a>
+	<li><a href="lab-2-6.php">Link to Task 2.6</a>
+	
+</ul>
+
+	
+
+
+
+	
+
 
 
 

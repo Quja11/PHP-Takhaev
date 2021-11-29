@@ -1,15 +1,6 @@
 <p>Takhaev Arseniy PI-321</p>
 
 <?php
-$a = rand(1,10);
-$b = rand(10,20);
-print("<p> numbers from segment [" . $a ."," . $b . "]: <br>");
-	for($i = $a; $i<=$b; ++$i){
-		echo ($a . "<br>");
-		$a = ++$a;
-	}
-
-
-
-
+$arr = array(1 => "PHP111", 2 => "Mysql1");
+echo ("$arr[1] $arr[2]");
 ?>
