@@ -1,57 +1,57 @@
-<p>the work was done by Takhaev Arseny PI-321</p>
-<p>Date and time:
+<p>Лабораторные работы по Веб-Программированию, Тахаев Арсений ПИ-321</p>
+<p>Дата и время:
 </p>
 <?php
 $d=date("d.m.Y H:i");
 echo($d);
 ?>
 <!--Laboratory work 1-->
-<p><b><i>Laboratory work 1</i></b></p>
+<p><b><i>Лабораторная работа №1</i></b></p>
 <ul>
-	<p><i><b>Part 1 (php introduction)</b></i></p>
-	<li><a href="index.php">Link to Main Page (Exercise 1-1 and 1-5)</a>
+	<p><i><b>Часть 1 (Введение в php)</b></i></p>
+	<li><a href="index.php">Ссылка на 1 страницу (Упражнение 1-1 и 1-5)</a>
 
-	<li><a href="lab-1-1.php">Link to Exercise 1-2</a>
+	<li><a href="lab-1-1.php">Ссылка на упражнение 1-2</a>
 
-	<li><a href="lab-1-2.php">Link to Exercise 1-3</a>
+	<li><a href="lab-1-2.php">Ссылка на упражнение 1-3</a>
 
-	<li><a href="lab-1-3.php">Link to Exercise 1-4</a>
+	<li><a href="lab-1-3.php">Ссылка на упражнение 1-4</a>
 </ul>
 
 <ul>
-	<p><i><b>Independent work Number One</b></i></p>
-	<li><a href="lab1-5.php">Link to Task #1-1
+	<p><i><b>Самостоятельная работа №1</b></i></p>
+	<li><a href="lab1-5.php">Ссылка на задачу №1-1
 	</a>
 </ul>
 
 <ul>
-	<p><i><b>Part 2 (control structures)</b></i></p>
-	<li><a href="lab-2-1.php">Link to Exercise 1-6</a>
+	<p><i><b>Часть 2 (Управляющие конструкции)</b></i></p>
+	<li><a href="lab-2-1.php">Ссылка на упражнение 1-6</a>
 
-	<li><a href="lab-2-2.php">Link to Exercise 1-7</a>
+	<li><a href="lab-2-2.php">Ссылка на упражнение 1-7</a>
 
-	<li><a href="lab-2-3.php">Link to Exercise 1-8</a>
+	<li><a href="lab-2-3.php">Ссылка на упражнение 1-8</a>
 
-	<li><a href="lab-2-4.php">Link to Exercise 1-9</a>
+	<li><a href="lab-2-4.php">Ссылка на упражнение 1-9</a>
 
-	<li><a href="lab-2-5.php">Link to Exercise 1-10</a>
+	<li><a href="lab-2-5.php">Ссылка на упражнение 1-10</a>
 
-	<li><a href="lab-2-6.php">Link to Exercise 1-11</a>
+	<li><a href="lab-2-6.php">Ссылка на упражнение 1-11</a>
 
-	<li><a href="lab-2-7.php">Link to Exercise 1-12</a>
+	<li><a href="lab-2-7.php">Ссылка на упражнение 1-12</a>
 
-	<li><a href="lab-2-8.php">Link to Exercise 1-13</a>
+	<li><a href="lab-2-8.php">Ссылка на упражнение 1-13</a>
 
-	<li><a href="lab-2-9.php">Link to Exercise 1-14</a>
+	<li><a href="lab-2-9.php">Ссылка на упражнение 1-14</a>
 
 </ul>
 
 <ul>
-	<p><i><b>Independent work Number Two</b></i></p>
-	<li><a href="lab-2-10.php">Link to Task #1-2
+	<p><i><b>Самостоятельная работа №2</b></i></p>
+	<li><a href="lab-2-10.php">Ссылка на задачу №1-2
 	</a>
 
-	<li><a href="lab-2-11.php">Link to Task #1-3
+	<li><a href="lab-2-11.php">Ссылка на задачу №1-3
 	</a>
 </ul>
 
@@ -60,26 +60,26 @@ echo($d);
 
 
 <!--Laboratory work 2-->
-<p><b><i>Laboratory work 2</i></b></p>
+<p><b><i>Лабораторная работа №1</i></b></p>
 <ul>
-	<p><i><b>Part 1 (working with arrays)</b></i></p>
+	<p><i><b>Часть 1 (Работа с массивами)</b></i></p>
 
-	<li><a href="lab-2-1.php">Link to Exercise 2-1</a>
-	<li><a href="lab-2-2.php">Link to Exercise 2-2</a>
-	<li><a href="lab-2-3.php">Link to Exercise 2-3</a>
+	<li><a href="lab-2-1.php">Ссылка на упражнение 2-1</a>
+	<li><a href="lab-2-2.php">Ссылка на упражнение 2-2</a>
+	<li><a href="lab-2-3.php">Ссылка на упражнение 2-3</a>
 </ul>
 
 <ul>
-	<p><i><b>Independent work</b></i></p>
+	<p><i><b>Самостоятельная работа</b></i></p>
 
-	<li><a href="lab-2-4.php">Link to Task 2.4</a>
+	<li><a href="lab-2-4.php">Ссылка на задачу 2.4</a>
 </ul>
 
 <ul>
-	<p><i><b>Part 2. User functions</b></i></p>
+	<p><i><b>Часть 2. Функции пользователя</b></i></p>
 
-	<li><a href="lab-2-5.php">Link to Task 2.5</a>
-	<li><a href="lab-2-6.php">Link to Task 2.6</a>
+	<li><a href="lab-2-5.php">Ссылка на задачу 2.5</a>
+	<li><a href="lab-2-6.php">Ссылка на задачу 2.6</a>
 	
 </ul>
 
