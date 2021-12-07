@@ -1,4 +1,4 @@
-<p>Takhaev Arseniy PI-321</p>
+<p>Тахаев Арсений ПИ-321</p>
 
 <?php
 //Task 2.5
@@ -17,11 +17,11 @@ echo ("a = " . $a . " b = " . $b . "<br>");
 $u = abc($a - $b*$b, $b - $a);
 $t = abc($a, $b - $a*$a);
 
-echo ("1 function result:" . $u);
-echo ("<br> 2 function result:" . $t);
+echo ("Результат 1 функции:" . $u);
+echo ("<br> Результат 2 функции:" . $t);
 
 
 $z = $u + $t;
-echo ("<br> The value of z is $z");
+echo ("<br> Значение переменной z равно $z");
 
 ?>

@@ -1,6 +1,8 @@
 <?php 
 
-echo "Task 2.6 <br>Problem conditions: given a matrix A (m, n). Find a vector В (n), each element of which is equal to the sum of the elements corresponding column of matrix A. Original and corrected arrays display";
+echo "Task 2.6 <br>Дана матрица А(m,n). Найти вектор В(n), каждый элемент которого равен сумме элементов
+соответствующего столбца матрицы А. Исходный и скорректированный массивы
+вывести на экран.";
 
 $arr=array();
 $arr1=array();
@@ -10,7 +12,7 @@ for ($j = 0; $j < $n; $j++) {
 $arr[$i][$j] = rand(1,10); 
 }
 }
-echo" Displaying an array in the form of a tab:";
+echo" Вывод массива в форме таблицы:";
 ?>
 
 <HTML>
@@ -35,7 +37,7 @@ echo ("</tr>");
 
 <?php
 
-echo"Array processing according to option 4: "
+echo"Скорректированный массив: "
 ?>
 <HTML>
 <BODY>

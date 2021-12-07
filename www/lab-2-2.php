@@ -1,4 +1,4 @@
-<p>Takhaev Arseniy PI-321</p>
+<p>Тахаев Арсений ПИ-321</p>
 
 <?php
 //1 задание
@@ -9,11 +9,11 @@ $x = rand(3,20);
 //2 задание, заполнение массива и его вывод сделал в 3 задании, чтобы не выводить массив через функции, а сделать это через for
 echo ("<br> <b> 2) </b>");
 $mass = array();
-	echo "array is full";
+	echo "Массив заполнен";
 
 //3 задание
 echo ("<br> <b> 3) </b>");
-echo ("An array of $x elements filled with random numbers: ");
+echo ("Массив из $x элементов, заполненный случайными числами: ");
 
 	for($q=0; $q <= $x-1; $q++){
 		$mass[$q] = rand(10,99);
@@ -52,7 +52,7 @@ echo ("<br> <b> 7) </b>");
 		$sum = $sum + $mass[$c];
 		$count += 1;
 	}
-echo ("sum of array elements: " . $sum . " <br> " . "the number of elements in the array: ". $count);
+echo ("Сумма элементов массива: " . $sum . " <br> " . "Количество элементов в массиве: ". $count);
 
 //8 задание
 echo ("<br> <b> 8) </b>");
@@ -62,15 +62,15 @@ echo ($sum/$count);
 echo ("<br> <b> 9) </b>");
 
 	 if ((in_array(50, $mass))==1){
-	 	echo "There is";
+	 	echo "Число 50 есть в массиве";
 	 }else{
-	 	echo "No number 50";
+	 	echo "Нет числа 50";
 	 }
 
 //10 задание
 echo ("<br> <b> 10) </b>");
 $mass = array_unique($mass);
-echo ("Array of unique values: ");
+echo ("Массив из уникальных значений: ");
 
 	for($vq=0; $vq <= $x-1; $vq++){
 		echo($mass[$vq] . " ");
