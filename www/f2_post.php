@@ -1,6 +1,5 @@
 <?php
-echo ("Hello, " . $_POST["userName_post"]);
+echo ("Привет, " . $_POST["userName_post"]);
 echo ("<hr>");
-echo ("Value hidden field hideField_post equals " . $_POST["hideField_post"]);
-
+echo ("Значение скрытого поля hideField_post равно " . $_POST["hideField_post"]);
 ?>	

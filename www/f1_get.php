@@ -1,6 +1,6 @@
 <?php
-echo ("Hello, " . $_GET["userName"]);
+echo ("Привет, " . $_GET["userName"]);
 echo ("<hr>");
-echo ("Value hidden field hideField equals " . $_GET["hideField"]);
+echo ("Значение скрытого поля hideField равно " . $_GET["hideField"]);
 
 ?>
