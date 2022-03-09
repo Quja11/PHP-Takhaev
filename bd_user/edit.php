@@ -6,7 +6,6 @@
 
 <?php
  $link = mysqli_connect("localhost", "root", "", "users");
-
  mysqli_set_charset($link, "utf8");
 
  $rows = mysqli_query($link, "SELECT id_user, user_name, user_login user_password, user_e_mail, user_info FROM user WHERE id_user='".$_GET['id_user']."'");
