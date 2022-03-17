@@ -31,9 +31,15 @@ print "</table>";
 
 $num_rows = mysqli_num_rows($result); // число записей в таблице БД
 print("<P>Всего пользователей: $num_rows </p>");
- 
 ?>
 
 <p> <a href="new.html"> Добавить пользователя </a>
+
+	<h2>Вариант 9: населенные пункты</h2>
+<table border="1">
+<tr> // вывод «шапки» таблицы
+ <th> Имя </th> <th> E-mail </th>
+ <th> Редактировать </th> <th> Уничтожить </th>
+</tr>
 </body> 
 </html>
